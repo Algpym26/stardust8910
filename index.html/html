@@ -1,13 +1,62 @@
-<head>
+
     <!DOCTYPE html>
     <html lang="en">
+
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>website</title>
-        <link rel="index.css" href="style.css">
+        <link rel="style.css" href="index.css/style.css">  
     </head>
+
     <body>
-        
+        <header>
+            <h1>StarDust8910</h1>
+        </header>
+        <section>
+            <h2>StarDust-Freelancer</h2>
+            <img src="./index.css/img/rotonda copy.jpeg"
+            alt="rotonda copy.jpeg">
+        </section>
+
+        <nav>
+            <ul>
+                
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+        <main>
+            <section>
+                <h2>Welcome to my Website!</h2>
+                <p>Here you can find my work and evolution from project to project</p>
+            </section>
+
+
+            <footer>
+                <p>&copy 2024 StarDust8910. All rights reserved.</p>
+            </footer>
+            <script src="script.js"></script>
+        </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- link-->
+        <a href="https://www.google.com">This is a link to <google class="com"></google></a>
     </body>
     </html>
