@@ -15,10 +15,14 @@
         </header>
         <section>
             <h2>StarDust-Freelancer</h2>
+            
+            <!-- img + tab = <img src="" alt="">-->
+
             <img src="./index.css/img/rotonda copy.jpeg"
             alt="rotonda copy.jpeg">
+            
         </section>
-
+        
         <nav>
             <ul>
                 
